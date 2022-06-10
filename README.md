@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi There, I'm Chowdhury Ihsan</h1>
+<h1 align="center">Hi There, I'm <img src="https://img.shields.io/badge/Developer-Chowdhury%20Ihsan-blue" height="30"/>  </h1>
 
 <h3 align="center">Web Developer | Web Front-end Developer | MERN Developer | React Developer</h3>
 <br />
